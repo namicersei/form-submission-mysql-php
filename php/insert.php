@@ -1,6 +1,6 @@
 <?php
  
-include('confignam.php');
+include('config.php');
 
 $email = $_POST['email'];
 $name = $_POST['name'];
